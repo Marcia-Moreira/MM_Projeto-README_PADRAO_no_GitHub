@@ -1,0 +1,157 @@
+Como Criar Portifólio Bacana no GitHub:
+
+
+Se você é organizado, mantenha seus projetos organizados;
+Se você é colaborativo, colabore com outros projetos;
+Se você é comprometido, não deixe seus projetos inacabados (ou então remova do seu repositório).
+
+
+Segue abaixo um repositório do GitHub, contendo nº ideias de projetos: https://github.com/florinpop17/app-ideas.
+
+Os projetos são divididos em três níveis com base no conhecimento e na experiência necessários para concluí-los.
+
+01-> Reade-me:
+
+Estrutura de um bom README:
+
+Informar ferramentas utilizadas no projeto;
+Imagem demonstrativa do projeto juntamente como o nome do projeto;
+Texto com resumo da proposta do projeto;
+Lista dos requisitos do projeto;
+Demonstração da Aplicação;
+Instruções para visualizar o projeto;
+Referências e observações.
+
+
+02->
+
+
+
+
+
+
+Sites de Referência:
+
+https://www.tabnews.com.br/andersonalvescoelho/como-criar-um-portfolio-no-github
+
+
+
+MODELO DE READE-ME PESSOAL NO GITHUB
+--------------------------------------
+
+
+<h1 align="center">Oi 👋, Eu sou a Marcia Moreira</h1>
+<h3 align="center">Curiosa e atraída por Desenvolvimento Web FullStack</h3>
+
+- 🔭 Atualmente estou dedicada a buscar recolocação e participando como bolsista em projetos de qualificação profissional em desenvolvimento Web Front-end e Back-end. [DTECH - Escola Koru e Potência Tech by iFood](https://dtech-koru-ifood.ves.jobs/)
+
+- 🌱 Estou aprendendo **Python e JavaScript**
+
+- 👯 Também participo de diversos outros projetos como bolsista para complementar as habilidades. [SENAC - Desenvolvedor Web Front-end e Programador de Sistemas](https://www.sp.senac.br/graduacao?utm_source=google&utm_medium=cpc&utm_campaign=GCR_Graduacao&utm_content=CursosFaculdade&gad_source=1&gclid=CjwKCAiApaarBhB7EiwAYiMwqv_se3-HHWFCpOSbW5n 7oUte4ddi4tNcvE1c009XkUIZYgv3I5RbrxoC6tkQAvD_BwE#Cursos)
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Marcia-Moreira?tab=repositories](https://github.com/Marcia-Moreira?tab=repositories)
+
+- 💬 Me pergunte sobre **Html, CSS, BootStrap, Canva e Gestão de Pessoas**
+
+- 📫 Você me encontra através do e-mail **mm.no.linkedin@gmail.com**
+
+- 📄 Mais detalhes sobre a minha história, no meu Linkedin [https:// www.linkedin.com/in/marciamoreiramm](https://www.linkedin.com/in/marciamoreiramm)
+
+- ⚡ Curiosidades aleatórias sobre a minha pessoa: **Marcenaria/Crochê/Dança do Ventre/Percursão/Costura/3D/Corrida**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in /marciamoreiramm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked -in-alt.svg" alt="https://www.linkedin.com/in/marciamoreiramm" height="30" width="40" /></a>
+<a href="https://instagram .com/https://www.instagram.com/marcia_moreira_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- gerador/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marcia_moreira_dev/" height="30" width="40" /></a> <
+/ p>
+
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" largura ="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href= "https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/ css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </ a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask- icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer "> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </ a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/ en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" altura ="40"/> </a> </p>
+
+================================================================================================
+Site com codigos MarckDown
+https://github.com/anuraghazra/github-readme-stats#github-stats-card
+================================================================================================
+
+Quadro de Status GitHub:
+
+Transparente:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
+Automático Dark ou Light:
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-light-mode-only)
+
+-------------------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&size_weight=0.5&count_weight=0.5)
+
+
+
+-----------------
+
+Pinos extras do GitHub
+Os pinos extras do GitHub permitem que você fixe mais de 6 repositórios em seu perfil usando um perfil leia-me do GitHub.
+
+Yay! Você não está mais limitado a 6 repositórios fixados.
+
+Uso
+Copie e cole este código em seu leia-me e altere os links.
+
+Ponto final:api/pin?username=anuraghazra&repo=github-readme-stats
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=github-readme-stats)](https://github.com/marcia-moreira/github-readme-stats)
+
+
+
+--------------------------
+
+Dica rápida (alinhar os cartões)
+Por padrão, o GitHub não organiza os cartões lado a lado. Para fazer isso, você pode usar esta abordagem:
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+-----------------------------------------
+
+EDICAO READE-ME No GITHUB:
+
+<h1 align="center">Oi 👋, Eu sou a Marcia Moreira</h1>
+
+<!-- Adiciona um Quadro de Status: -->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcia-moreira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/marcia-moreira/github-readme-stats#gh-light-mode-only)
+
+<!-- -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-moreira&size_weight=0.5&count_weight=0.5)
+<!-- Adiciona um Card de um Repositório Específicos:-->
+## Repositórios Importantes:
+<!--001 Challange_01-WoMakersCode-Intro_Star_Wars_MM -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=Challange_01-WoMakersCode-Intro_Star_Wars_MM)](https://github.com/marcia-moreira/github-readme-stats)
+
+<!--002 MM_Portfolio_Responsivo_com_Bootstrap_Flask -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcia-moreira&repo=MM_Portfolio_Responsivo_com_Bootstrap_Flask)](https://github.com/marcia-moreira/github-readme-stats)
+
+
+<!-- -->
+
+https://github.com/wakatime/sublime-wakatime#troubleshooting
+
+<!-- -->
